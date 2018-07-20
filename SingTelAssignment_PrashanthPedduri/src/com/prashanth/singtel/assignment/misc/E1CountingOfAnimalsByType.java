@@ -21,7 +21,7 @@ import com.prashanth.singtel.assignment.mammals.Frog;
 import com.prashanth.singtel.assignment.util.Gender;
 
 /**
- * This is targetted to solve Question E1
+ * This is targeted to solve Question E1
  *
  * 1. Can you share the code to count:
  *   a. how many of these animals can fly?

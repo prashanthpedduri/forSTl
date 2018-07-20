@@ -12,7 +12,7 @@ public class ClownFish extends Fish
 	private double avgLengthInFeet = 0.4;
 
 	// color (can be changed)
-	private String color = "white";
+	private String color = "orange";
 
 	public String makeJokes()
 	{
